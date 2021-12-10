@@ -1,0 +1,24 @@
+{
+  "name": "musical-nosql-succotash-mapi",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tniemeye19/musical-nosql-succotash-mapi.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/tniemeye19/musical-nosql-succotash-mapi/issues"
+  },
+  "homepage": "https://github.com/tniemeye19/musical-nosql-succotash-mapi#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "moment": "^2.29.1",
+    "mongoose": "^6.1.1"
+  }
+}
