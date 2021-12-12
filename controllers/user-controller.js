@@ -101,7 +101,7 @@ const userController = {
     unFriend({ params }, res) {
         User.findByIdAndUpdate(
             { _id: params.id },
-            {$pull: { friends: params.friendId } },
+            { $pull: { friends: params.friendId } },
             { new: true }
         )
         .select('-__v')
