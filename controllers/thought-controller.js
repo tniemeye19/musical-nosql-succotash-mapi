@@ -64,7 +64,8 @@ const thoughtController = {
         // console.log("PARAMS: ", params)
         Thought.findOneAndUpdate(
             { _id: params.id },
-            { thoughtText: body.thoughtText },
+            body,
+            // { thoughtText: body.thoughtText },
             { new: true }
         )
         .then(dbThoughtData => {
