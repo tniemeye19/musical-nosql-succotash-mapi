@@ -49,9 +49,9 @@ In order to use this backend app, please fork/clone the repository. In the root 
 
 Once you have completed the installation directions, please view the following walkthrough videos for a better understanding of how to use this app with Insomnia Core.
 
-[User Walkthrough](https://watch.screencastify.com/v/eCmMKpDrvQNN0pn0el1Z)
-[Thought Walkthrough](https://watch.screencastify.com/v/hIXVCG85izEUxCVFTfk7)
-[Friend and Reaction Walkthrough](https://watch.screencastify.com/v/b1gSjc3UDQRIH7Qh1WZV)
+- [User Walkthrough](https://watch.screencastify.com/v/eCmMKpDrvQNN0pn0el1Z)
+- [Thought Walkthrough](https://watch.screencastify.com/v/hIXVCG85izEUxCVFTfk7)
+- [Friend and Reaction Walkthrough](https://watch.screencastify.com/v/b1gSjc3UDQRIH7Qh1WZV)
 
 ## Contributing
 
